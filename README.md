@@ -22,8 +22,7 @@ To set up the project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/alzheimers-multiclass-classification.git
-   cd alzheimers-multiclass-classification
+   git clone https://github.com/RanaHany10/Alzheimers_Multiclass_Classification.git
    ```
 
 2. **Install dependencies:**
